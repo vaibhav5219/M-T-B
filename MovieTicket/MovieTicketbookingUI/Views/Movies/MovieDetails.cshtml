@@ -1,0 +1,17 @@
+﻿@model MovieTicketbookingModel.Movie
+
+@{
+    ViewBag.Title = "MovieDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>MovieDetails</h2>  <br/>
+<ul>
+    <li>Name: @Model.Name</li>
+    <li>Release Date: @Model.ReleaseDate </li>
+    <li>Number Of Seats Available: @Model.SeatsAvailable</li>
+    
+</ul>
+<div class="btn-group">
+    @Html.ActionLink("Click Here To Book Ticket", "AddCustomer", "Customers", new { id = Model.Id }, new { @class = "btn btn-primary active" })
+</div>

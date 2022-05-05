@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingModel\bin\Release\MovieTicketbookingModel.dll.config
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingModel\bin\Release\MovieTicketbookingModel.dll
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingModel\bin\Release\MovieTicketbookingModel.pdb
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingModel\bin\Release\EntityFramework.dll
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingModel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingModel\bin\Release\EntityFramework.xml
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingModel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingModel\obj\Release\MovieTicketbookingModel.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingModel\obj\Release\MovieTicketbookingModel.csproj.CopyComplete
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingModel\obj\Release\MovieTicketbookingModel.dll
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingModel\obj\Release\MovieTicketbookingModel.pdb

@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\bin\Release\MovieTicketbookingDataLayer.dll.config
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\bin\Release\MovieTicketbookingDataLayer.dll
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\bin\Release\MovieTicketbookingDataLayer.pdb
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\bin\Release\EntityFramework.dll
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\bin\Release\MovieTicketbookingModel.dll
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\bin\Release\MovieTicketbookingModel.pdb
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\bin\Release\MovieTicketbookingModel.dll.config
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\bin\Release\EntityFramework.xml
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\obj\Release\MovieTicketbookingDataLayer.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\obj\Release\MovieTicketbookingDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\obj\Release\MovieTicketbookingDataLayer.csproj.CopyComplete
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\obj\Release\MovieTicketbookingDataLayer.dll
+C:\Users\hp\source\repos\MovieTicket\MovieTicketbookingDataLayer\obj\Release\MovieTicketbookingDataLayer.pdb
